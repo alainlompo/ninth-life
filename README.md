@@ -10,5 +10,6 @@ Here, we mainly dive deep into
 * java tools
 * the jshell and its api
 * modularity in java
+  * Enhancing deprecation
 * security enhancements
 * Migrating from previous versions
