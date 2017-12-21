@@ -20,5 +20,15 @@ public class MpcDemoAndNotes {
 		// Of course the following works
 		Integer __ = 45;
 	}
+	
+	public static void main(String[] args) {
+		CartesianPlanCoordinates coordinates = new CartesianPlanCoordinates(12.5, 8.34);
+		Polarisable polarService = new Polarisable() {
+		};
+		
+		
+		PolarPlanCoordinates polarCoords = polarService.toPolarCoordinates(coordinates);
+		System.out.println(coordinates + " expressed as polar coordinates is " + polarCoords);
+	}
 
 }

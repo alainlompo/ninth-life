@@ -22,4 +22,8 @@ public class PolarPlanCoordinates {
 	public void setTheta(double theta) {
 		this.theta = theta;
 	}
+	
+	public String toString() {
+		return "(r=" + r + ", theta=" + theta + ")";
+	}
 }
