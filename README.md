@@ -6,6 +6,7 @@ It has courageously faced the tornados of the .net framework world as well as th
 Here, we mainly dive deep into
 
 * Enhancements to the java language
+  * Concurrency updates in JEP 266 [See a demo in our concurrency coding repo](https://github.com/alainlompo/concurrent-coding/commit/0f5079a923671e3e5f2f9728507cccc7d1c8217d)
 * Java scripting and Nashorn
 * java tools
 * the jshell and its api
