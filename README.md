@@ -11,6 +11,7 @@ Here, we mainly dive deep into
 * java tools
 * the jshell and its api
 * modularity in java
+  * Basic illustrations can be found in our [j9-modularity repo](https://github.com/alainlompo/j9-modularity/tree/master)
   * Enhancing deprecation
 * security enhancements
 * Migrating from previous versions
